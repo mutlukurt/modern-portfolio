@@ -1,7 +1,7 @@
 # Modern Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://dynamic-madeleine-b29089.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/dynamic-madeleine-b29089/deploys)
+
 
 > 🚀 **[View Live Demo](https://dynamic-madeleine-b29089.netlify.app/)**
 
